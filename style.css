@@ -1,7 +1,7 @@
 
 
 .container {
-  position:fixed;
+  position:static;
   transform: translate(-50%, -50%);
   top: 40%;
   left: 50%;
